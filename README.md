@@ -99,4 +99,4 @@ Font selections are sourced from Google Fonts to maintain a clean, professional 
 Special thanks to StackOverflow and MDN Web Docs for helpful resources during the development process.
 
 Contact
-If you would like to get in touch, feel free to reach out via my email: tarun.dangeti@example.com or connect with me on LinkedIn.
+If you would like to get in touch, feel free to reach out via my email: tarun.dangeti2@gmail.com or connect with me on LinkedIn.
